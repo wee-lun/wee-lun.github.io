@@ -9,11 +9,7 @@ toc:
   sidebar: left
 ---
 
-## The Start of Everything
-
 After days of effort wrestling with unfamiliar terminal configurations, feeling for a moment like an actual computer scientist, I'm proud to say my personal website is finally set up. For reference, this site is hosted using *GitHub Pages*, which lets anyone publish a static webpage for free, and the layout is built on the *al-folio* template.
-
-<!--more-->
 
 ## Why?
 
