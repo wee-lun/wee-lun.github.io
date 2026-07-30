@@ -19,7 +19,7 @@ latest_posts:
 
 > <small>Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul.</small>
 > 
-> <div align="right"><small>— Samuel Ullman, *Youth*</small></div>
+> <div align="right"><small>— Samuel Ullman, Youth </small></div>
 
 I'm a math graduate from Singapore. I get excited about abstract nonsense.
 
