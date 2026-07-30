@@ -15,6 +15,9 @@ latest_posts:
   limit: 10 # leave blank to include all the blog posts
 ---
 
+> Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul.
+>
+> -- 'Youth', by Samuel Ullman
 
 I'm a math graduate from Singapore. I get excited about abstract nonsense.
 
