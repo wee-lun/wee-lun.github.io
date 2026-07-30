@@ -13,6 +13,8 @@ toc:
 
 After days of effort wrestling with unfamiliar terminal configurations, feeling for a moment like an actual computer scientist, I'm proud to say my personal website is finally set up. For reference, this site is hosted using *GitHub Pages*, which lets anyone publish a static webpage for free, and the layout is built on the *al-folio* template.
 
+<!--more-->
+
 ## Why?
 
 This isn't my first attempt at setting up a personal site. I've tried and failed many times before, mostly because I lacked the technical knowledge to see it through. I have to admit that I owe a lot of this to LLMs, which helped me work through countless errors along the way.
