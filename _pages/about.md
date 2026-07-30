@@ -19,7 +19,7 @@ latest_posts:
 > 
 > <div align="right"><small>— Samuel Ullman, ’Youth‘ </small></div>
 
-I'm a math graduate from Singapore. I get excited about abstract nonsense.
+I'm a math graduate. I get excited about abstract nonsense.
 
 My research interests lie in algebra, particularly homological algebra and representation theory.
 
