@@ -199,6 +199,9 @@ kramdown:
       line_numbers: false
       start_line: 1
 
+# Excerpt setting
+excerpt_separator: <!--more-->
+
 # Includes & excludes
 include: ["_pages"]
 exclude:
