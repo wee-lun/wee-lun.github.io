@@ -8,4 +8,6 @@ collection: books
 
 This is where I store my thoughts or comments on books or movies.
 
+Nothing is here yet. You shall see nothing.
+
 
