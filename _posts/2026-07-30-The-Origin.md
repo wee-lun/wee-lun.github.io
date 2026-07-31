@@ -9,6 +9,7 @@ toc:
   sidebar: left
 ---
 
+<div align="justify" markdown=1>
 After days of effort wrestling with unfamiliar terminal configurations, feeling for a moment like an actual computer scientist, I'm proud to say my personal website is finally set up. For reference, this site is hosted using *GitHub Pages*, which lets anyone publish a static webpage for free, and the layout is built on the *al-folio* template.
 
 <!--more-->
@@ -26,3 +27,4 @@ For the next five months, I'll be the freest I've ever been, with more time than
 Honestly, I don't know exactly what to expect from this blog. Right now it's centered on (pure) mathematics, but that focus may shift over time. Whatever direction it takes, I hope to keep this site alive and maintained. For now, my plan is to mainly publish study reflections and notes I've written. I haven't set any quantifiable goals on how much or how often I'll post.
 
 Either way, this feels like a new starting point for me, right after graduation. Here's hoping everything goes well.
+</div>

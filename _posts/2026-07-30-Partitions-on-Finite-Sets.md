@@ -18,7 +18,7 @@ However, we could have more structure in the partitions. This writing demonstrat
 
 <!--more-->
 
-# **Partitions and Monoid**
+## **Partitions and Monoid**
 
 Let $S$ be a finite set, and let $\mathcal P=\\{ P_i\\}_{i=1}^n$ be a partition of $S$, where we denote each block as $P_i$. To make a monoid out of $P$, we first need a binary action, specifically a binary action of *sets*. A good candidate is union. However, all these quickly breakdown to two problems:
 
@@ -44,7 +44,7 @@ Since $r\cap s\subseteq \\{1,\dots,n\\}$, so $a\cap b$ must be an element of $M_
 
 The topological structure of $M_{\mathcal P}$ is more or less another perspective to see the monoid. It could be connected back to the big picture by seeing that the connected components of $M_{\mathcal P}$ in terms of topology is exactly the partition $\mathcal P$.
 
-# **Ordering of Partitions**
+## **Ordering of Partitions**
 
 We have constructed a monoid induced by a given partition. We can use this to define a partial order on *the family of all possible partitions of $S$*. Suppose given two partitions $\mathcal P$ and $\mathcal Q$ of $S$. We define the ordering
 
@@ -56,7 +56,7 @@ The definition above is also equivalent to the following, which doesn't required
 
 Thus, in plain language, we are saying that *$\mathcal P$ is finer than $\mathcal Q$*. Also, it is not difficult to see that the 'largest' partition would therefore be $\\{\\{S\\}\\}$ and the 'smallest' (non-trivial) partition will be $\\{\\{s\\}:s\in S\\}$. It is also clear that not all partitions are comparable. For example, these two partitions $\\{\\{1,2\\},\\{3,4\\}\\}$ and $\\{\\{1,4\\},\\{2,3\\}\\}$ are not comparable. 
 
-# **Categories from the Partial Order**
+## **Categories from the Partial Order**
 
 It is well-known that a partial order induces a category, in particular a [skeletal thin category](https://en.wikipedia.org/wiki/Thin_category) Thus, the partial order $\preceq$ we defined previously defined a category, or, to be precise, three equivalent categories:
 1. The category $\Pi(S)$ of partitions of $S$,
@@ -96,7 +96,7 @@ we see $R_1\cap R_2 = R_2$, thus $R_1\leq R_2$. This agrees with the previous se
 
 With the defined partial order, we can therefore define category of equivalence relation $\mathrm{Eq}(S)$ on set $S$. As one expected, this category is equivalent to the three categories previously listed, and the isomorphism is exactly the bijective correspondence between a partition and an equivalence relation we worked out earlier.
 
-# Before Ending
+## Before Ending
 
 I do aware that there is a wider relationship of the mentioned topic to lattice theory. Unfortunately, I have no exposure towards the theory, even the basics. Again, as stressed as the beginning, much of these are probably unnecessary rigor since these are merely *a change of vocabulary* instead of deriving any new things. But I am always happy to see more examples of categories, and I am satisfied for now.  
 
