@@ -30,4 +30,4 @@ This site is a place where I record my mathematical journey, ideas I encounter, 
 #### Contact
 - Phone: +65 8501 8521
 - Email: lwlun23@gmail.com
-- GitHub: https://github.com/wee-lun
+- GitHub: [https://github.com/wee-lun](https://github.com/wee-lun)
