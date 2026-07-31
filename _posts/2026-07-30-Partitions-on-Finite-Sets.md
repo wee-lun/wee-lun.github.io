@@ -72,7 +72,7 @@ $$\mathcal P \preceq \mathcal Q \iff M_{\mathcal P}\supseteq M_{\mathcal Q} \iff
 
 Note that there is another category which is also equivalent to the above-listed, however I want to reserve it as the last section of this writing.  
 
-# **Category of Equivalence Relation**
+## **Category of Equivalence Relation**
 
 Upon some searching, I found that people has dicussed that how can [equivalence relations be formalized via category](https://math.stackexchange.com/q/1667749), however there was no discussion on how *equivalence relations can form a category* (perhaps because it was unnecessary, but I think it's interesting).
 
