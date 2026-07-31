@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ordering of partitions on Finite Sets
+title: Ordering of Partitions on Finite Sets
 date: 2026-07-30 19:29:30+0800
 description: We try to give a (unnecessary) formalization that the collection of all partitions on a given finite set as a category, after invoking a partial order on it.
 tags: category, topology, partitions, combinatorics
