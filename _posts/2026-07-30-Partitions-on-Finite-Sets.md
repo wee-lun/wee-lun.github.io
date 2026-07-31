@@ -90,9 +90,9 @@ $$R_1\leq R_2 \iff R_1 \cap R_2 = R_1$$
 
 Again, we omit all the verification. For example, given the equivalence relations (represented by equivalence classes)
 
-$$R_1:=\\{\\{1\\},\\{2\\},\\{3\\},\\{,4\\}\\} \quad \text{and} \quad R_2:= \\{\\{1,2\\},\\{3,4\\}\\}$$
+$$R_1:=\{\{1\},\{2\},\{3\},\{4\}\} \quad \text{and} \quad R_2:= \{\{1,2\},\{3,4\}\}$$
 
-we see $R_1\cap R_2 = R_2$, thus $R_1\leq R_2$. This agrees with the previous section where $\\{\\{1\\},\\{2\\},\\{3\\},\\{4\\}\\}$ is the finest, in terms of ordering of partitions. Broadly speaking, in two settings we have the correspondence where 'finer' $\leftrightarrow$ 'smaller' and vice versa.
+we see $R_1\cap R_2 = R_1$, thus $R_1\leq R_2$. This agrees with the previous section where $\\{\\{1\\},\\{2\\},\\{3\\},\\{4\\}\\}$ is the finest, in terms of ordering of partitions. Broadly speaking, in two settings we have the correspondence where 'finer' $\leftrightarrow$ 'smaller' and vice versa.
 
 With the defined partial order, we can therefore define category of equivalence relation $\mathrm{Eq}(S)$ on set $S$. As one expected, this category is equivalent to the three categories previously listed, and the isomorphism is exactly the bijective correspondence between a partition and an equivalence relation we worked out earlier.
 
